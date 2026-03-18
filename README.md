@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👩‍💻 Hola, soy Nicole
 
-<!--
-**cristell-0821/cristell-0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrolladora Frontend enfocada en construir interfaces modernas, funcionales y centradas en el usuario.
+Actualmente trabajando con **React** en aplicaciones de simulación, mientras sigo fortaleciendo mis habilidades en desarrollo fullstack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+* 💼 Frontend Developer en **Control + Escuela**
+* 🧠 Experiencia en desarrollo web, e-commerce y proyectos académicos con enfoque real
+* ⚡ Me gusta transformar ideas en interfaces limpias, interactivas y escalables
+* 🎨 Interés fuerte en diseño UI/UX y experiencias visuales
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
+
+* React, Next.js, Angular
+* JavaScript, TypeScript
+* HTML5, CSS3, Tailwind CSS, Bootstrap
+
+### Backend
+
+* Spring Boot, Java, C#
+
+### Bases de Datos
+
+* PostgreSQL, Firebase, Supabase, SQL Server, Oracle
+
+### Herramientas
+
+* Git, GitHub
+* Figma
+* WordPress
+
+---
+
+## 📈 Actualmente
+
+* 🔍 Profundizando en arquitectura frontend
+* ⚛️ Mejorando habilidades en React y Next.js
+* 🚀 Construyendo proyectos más completos (fullstack + IA)
+
+---
+
+## 📫 Conecta conmigo
+
+* 💼 LinkedIn: [(https://www.linkedin.com/in/cristell-calderon-0bb7a5195/)]
+* 🌐 Portafolio: [(https://portfolio-cristell-calderon.vercel.app/)]
+* 📧 Email: calderoncristell948@gmail.com
+
+---
+
