@@ -38,18 +38,10 @@ Actualmente trabajando con **React** en aplicaciones de simulación, mientras si
 
 ---
 
-## 📈 Actualmente
-
-* 🔍 Profundizando en arquitectura frontend
-* ⚛️ Mejorando habilidades en React y Next.js
-* 🚀 Construyendo proyectos más completos (fullstack + IA)
-
----
-
 ## 📫 Conecta conmigo
 
-* 💼 LinkedIn: [(https://www.linkedin.com/in/cristell-calderon-0bb7a5195/)]
-* 🌐 Portafolio: [(https://portfolio-cristell-calderon.vercel.app/)]
+* 💼 LinkedIn: https://www.linkedin.com/in/cristell-calderon-0bb7a5195/
+* 🌐 Portafolio: https://portfolio-cristell-calderon.vercel.app/
 * 📧 Email: calderoncristell948@gmail.com
 
 ---
